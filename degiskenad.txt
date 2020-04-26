@@ -1,0 +1,8 @@
+ke_button = Kullanıcı kayıt ekle butonu
+ks_button = Kullanıcı kayıt sil butonu
+kg_button = Kullanıcı kayıt güncelle butonu
+ka_line = Kullanıcı Adı line Edit
+ks_line = Kullanıcı Soyadı line Edit
+kka_line = Kullanıcı Kitap Adı line Edit
+k_gun = Kullanıcının kitabı getirmek için istediği süre
+kikayitButton = Kitap Adı Kayıt Butonu
